@@ -1,0 +1,34 @@
+#header {
+
+}
+
+#title_area {
+	height: 100px;
+	background-color: #2FA6E3;
+}
+
+#title {
+	float: top;
+	font-size: 45px;
+	color: #703972;
+}
+
+#description {
+	float: bottom;
+}
+
+#menu_area {
+	background-color: black;
+	color: white;
+	height: 50px;
+}
+
+#menu_area a {
+	color: yellow;
+}
+
+.menu_item {
+	float: left;
+	margin-left: 20;
+	font-size: 22;
+}
