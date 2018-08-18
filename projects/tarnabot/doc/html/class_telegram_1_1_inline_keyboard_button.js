@@ -1,0 +1,26 @@
+var class_telegram_1_1_inline_keyboard_button =
+[
+    [ "InlineKeyboardButton", "class_telegram_1_1_inline_keyboard_button.html#a2db6a119c339c6249b78bb960de73f67", null ],
+    [ "InlineKeyboardButton", "class_telegram_1_1_inline_keyboard_button.html#a16aa658c6e190203da0a54be3ac93ba3", null ],
+    [ "InlineKeyboardButton", "class_telegram_1_1_inline_keyboard_button.html#ab6e2b513073e02de72babdae5950b880", null ],
+    [ "getCallbackData", "class_telegram_1_1_inline_keyboard_button.html#a1e986548ce8dd7aec2e23ac69750fe80", null ],
+    [ "getCallbackGame", "class_telegram_1_1_inline_keyboard_button.html#a25483d4d5118964c5580e251b9b23f38", null ],
+    [ "getPay", "class_telegram_1_1_inline_keyboard_button.html#a93019b4bb5554c6a384407a414512c29", null ],
+    [ "getSwitchInlineQuery", "class_telegram_1_1_inline_keyboard_button.html#a3311db7baf035b854832d1f8dedeffa3", null ],
+    [ "getSwitchInlineQueryCurrentChat", "class_telegram_1_1_inline_keyboard_button.html#a8a6724317aec1bb9fced2a0f7698229a", null ],
+    [ "getText", "class_telegram_1_1_inline_keyboard_button.html#a0b68e6a7e57841347e21425f69056ba5", null ],
+    [ "getUrl", "class_telegram_1_1_inline_keyboard_button.html#a1d477ef17996bb0feefe35e4053dec00", null ],
+    [ "hasCallbackData", "class_telegram_1_1_inline_keyboard_button.html#aea244c3029f9737f356f5656c300d7f0", null ],
+    [ "hasCallbackGame", "class_telegram_1_1_inline_keyboard_button.html#ad15875236cc04fb933271c6cc8baaa57", null ],
+    [ "hasSwitchInlineQuery", "class_telegram_1_1_inline_keyboard_button.html#abdb8072d44af387afdb4c7fd3009321b", null ],
+    [ "hasSwitchInlineQueryCurrentChat", "class_telegram_1_1_inline_keyboard_button.html#a851e21e8e14290d28348f68dcb0f5b79", null ],
+    [ "hasText", "class_telegram_1_1_inline_keyboard_button.html#a8a2daa8a24380ccb33a7084c3b2d42f7", null ],
+    [ "hasUrl", "class_telegram_1_1_inline_keyboard_button.html#a97c3d98998ca1861374fe112fb8f2963", null ],
+    [ "setCallbackData", "class_telegram_1_1_inline_keyboard_button.html#a603bc56b901008d196020a6d55b8208c", null ],
+    [ "setCallbackGame", "class_telegram_1_1_inline_keyboard_button.html#a56d5125fd23c2d6514461df46cdfdd92", null ],
+    [ "setPay", "class_telegram_1_1_inline_keyboard_button.html#ad5c799e4af32f8c0754da9cd9d8060ef", null ],
+    [ "setSwitchInlineQuery", "class_telegram_1_1_inline_keyboard_button.html#ab7fdcd45b63a7dad2be52973f077b7e0", null ],
+    [ "setSwitchInlineQueryCurrentChat", "class_telegram_1_1_inline_keyboard_button.html#aa339fd2f6c271f14b69e2d3066b9762b", null ],
+    [ "setText", "class_telegram_1_1_inline_keyboard_button.html#aaa7e236cea7886289a266a6849549e8a", null ],
+    [ "setUrl", "class_telegram_1_1_inline_keyboard_button.html#adf6aa3cc1d3cf2d0942734041a34da4a", null ]
+];

@@ -1,0 +1,27 @@
+var class_telegram_1_1_video =
+[
+    [ "Video", "class_telegram_1_1_video.html#ab67336c2c5b6227a9635bc7dcd6af543", null ],
+    [ "Video", "class_telegram_1_1_video.html#a3383d0732bd6154baf1bd4dcf049be8d", null ],
+    [ "Video", "class_telegram_1_1_video.html#ae6721b60b1b6ea0ca4f8f54e44ff95e8", null ],
+    [ "getDuration", "class_telegram_1_1_video.html#ac1be5c54317ecfa86e7f322238ac09ab", null ],
+    [ "getFileId", "class_telegram_1_1_video.html#af87ef25ef3102d858610250b1cca779d", null ],
+    [ "getFileSize", "class_telegram_1_1_video.html#a0c0c70178b5caa4e12d7d35095881e2a", null ],
+    [ "getHeight", "class_telegram_1_1_video.html#a67021bacf46dd7398d26f7b3e2143172", null ],
+    [ "getMimeType", "class_telegram_1_1_video.html#acd04b11391e38dbe6b990f2e24a9d5ed", null ],
+    [ "getThumb", "class_telegram_1_1_video.html#afd798af5e68c4c9c23bf88429248bf1f", null ],
+    [ "getWidth", "class_telegram_1_1_video.html#a1458776364e2d98a28099a2d913c5ccb", null ],
+    [ "hasDuration", "class_telegram_1_1_video.html#ae3ea3d800709434d6f6574cf107bb1aa", null ],
+    [ "hasFileId", "class_telegram_1_1_video.html#aae1c48756137a58d23392698707d6bb8", null ],
+    [ "hasFileSize", "class_telegram_1_1_video.html#a2788691cffe8afa32200176c7e9eabbf", null ],
+    [ "hasHeight", "class_telegram_1_1_video.html#a95d8e2fd5adc048931ff5083fb2dc3f9", null ],
+    [ "hasMimeType", "class_telegram_1_1_video.html#af19980af88cb3bd219d0a697f4e67a8c", null ],
+    [ "hasThumb", "class_telegram_1_1_video.html#a6fbcf0180d401c312365bb3861c75fc3", null ],
+    [ "hasWidth", "class_telegram_1_1_video.html#a34776e21986e6b8f9b03bfddeabfa659", null ],
+    [ "setDuration", "class_telegram_1_1_video.html#ac6d3f1261cb07c7fc0aae84b5062ed46", null ],
+    [ "setFileId", "class_telegram_1_1_video.html#a7033384ff604b2837e14cb2c65dfd764", null ],
+    [ "setFileSize", "class_telegram_1_1_video.html#acd0460a46d0824732718bda9a44f715b", null ],
+    [ "setHeight", "class_telegram_1_1_video.html#a1d40ea6e8fefbdb7c5ed23160e9099e8", null ],
+    [ "setMimeType", "class_telegram_1_1_video.html#ad38012b40964eb5284e916fa682aa447", null ],
+    [ "setThumb", "class_telegram_1_1_video.html#a75a5adf8ec9fd7023c54b7d857b9bd9d", null ],
+    [ "setWidth", "class_telegram_1_1_video.html#af7f6663a38e117300e829a9487ffb480", null ]
+];

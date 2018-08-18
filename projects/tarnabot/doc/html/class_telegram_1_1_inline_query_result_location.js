@@ -1,0 +1,27 @@
+var class_telegram_1_1_inline_query_result_location =
+[
+    [ "InlineQueryResultLocation", "class_telegram_1_1_inline_query_result_location.html#a5b6b089f71a502665bad3420bf827cf0", null ],
+    [ "InlineQueryResultLocation", "class_telegram_1_1_inline_query_result_location.html#a529ad7cdd8c2c57b2232d80114feb0a4", null ],
+    [ "InlineQueryResultLocation", "class_telegram_1_1_inline_query_result_location.html#a950faaed1e19c1301a6a2c018293124a", null ],
+    [ "getLatitude", "class_telegram_1_1_inline_query_result_location.html#a39e2b0b4caf71c9b3ed37afa9cc185bd", null ],
+    [ "getLivePeriod", "class_telegram_1_1_inline_query_result_location.html#ad01771d550311d88961cdbd2d6894bbc", null ],
+    [ "getLongitude", "class_telegram_1_1_inline_query_result_location.html#a5916c9d73499c2d68238726f95dfe709", null ],
+    [ "getThumbHeight", "class_telegram_1_1_inline_query_result_location.html#ac5df713e81b1c9105b64ed0a552c2bc6", null ],
+    [ "getThumbUrl", "class_telegram_1_1_inline_query_result_location.html#a705816fa8620e24f4b644a177adc889d", null ],
+    [ "getThumbWidth", "class_telegram_1_1_inline_query_result_location.html#ab3cc0ba46a83954ef9e3b0addae17160", null ],
+    [ "getTitle", "class_telegram_1_1_inline_query_result_location.html#a446c36c19ff80c1015bc3eadee690303", null ],
+    [ "hasLatitude", "class_telegram_1_1_inline_query_result_location.html#ac62fc0daee80fd2ba9b58e932972a3af", null ],
+    [ "hasLivePeriod", "class_telegram_1_1_inline_query_result_location.html#a003d68bb8f12893877468641a0fd4308", null ],
+    [ "hasLongitude", "class_telegram_1_1_inline_query_result_location.html#ab83f3002e5583da3306405c18ce0c0bb", null ],
+    [ "hasThumbHeight", "class_telegram_1_1_inline_query_result_location.html#a1ec76b7b97cead94d1bd909fff253dec", null ],
+    [ "hasThumbUrl", "class_telegram_1_1_inline_query_result_location.html#af868562ad39ab899214d281766409ae5", null ],
+    [ "hasThumbWidth", "class_telegram_1_1_inline_query_result_location.html#aaa9fa3a4323d821dc97abf61c7693f3b", null ],
+    [ "hasTitle", "class_telegram_1_1_inline_query_result_location.html#a4acfa69e15afd6a08c3a222b744e6f47", null ],
+    [ "setLatitude", "class_telegram_1_1_inline_query_result_location.html#a2f7cefa9722904f3c5fe80a3d37b62ad", null ],
+    [ "setLivePeriod", "class_telegram_1_1_inline_query_result_location.html#a1d9eb2b688fd0699d13c4dea8f4f195c", null ],
+    [ "setLongitude", "class_telegram_1_1_inline_query_result_location.html#adfe5dcdc3cafe84f5b0f7ade9e6ff8d2", null ],
+    [ "setThumbHeight", "class_telegram_1_1_inline_query_result_location.html#ae508280f7aab2136cd38cd8de6ddcaef", null ],
+    [ "setThumbUrl", "class_telegram_1_1_inline_query_result_location.html#aa1b3163bcb0ac94b537cf5eba57ec63d", null ],
+    [ "setThumbWidth", "class_telegram_1_1_inline_query_result_location.html#a056365e9dcdb593354281a96bd29b3ba", null ],
+    [ "setTitle", "class_telegram_1_1_inline_query_result_location.html#a5bdb05073c4b70360d939c4ef1d82184", null ]
+];

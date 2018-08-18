@@ -1,0 +1,87 @@
+var hierarchy =
+[
+    [ "QObject", null, [
+      [ "Telegram::TarnaBot", "class_telegram_1_1_tarna_bot.html", null ]
+    ] ],
+    [ "Telegram::TarnaRequest", "class_telegram_1_1_tarna_request.html", null ],
+    [ "Telegram::TarnaRequestSender", "class_telegram_1_1_tarna_request_sender.html", null ],
+    [ "Telegram::TelegramObject", "class_telegram_1_1_telegram_object.html", [
+      [ "Telegram::Animation", "class_telegram_1_1_animation.html", null ],
+      [ "Telegram::Audio", "class_telegram_1_1_audio.html", null ],
+      [ "Telegram::CallbackGame", "class_telegram_1_1_callback_game.html", null ],
+      [ "Telegram::CallbackQuery", "class_telegram_1_1_callback_query.html", null ],
+      [ "Telegram::Chat", "class_telegram_1_1_chat.html", null ],
+      [ "Telegram::ChatMember", "class_telegram_1_1_chat_member.html", null ],
+      [ "Telegram::ChatPhoto", "class_telegram_1_1_chat_photo.html", null ],
+      [ "Telegram::ChosenInlineResult", "class_telegram_1_1_chosen_inline_result.html", null ],
+      [ "Telegram::Contact", "class_telegram_1_1_contact.html", null ],
+      [ "Telegram::Document", "class_telegram_1_1_document.html", null ],
+      [ "Telegram::File", "class_telegram_1_1_file.html", null ],
+      [ "Telegram::Game", "class_telegram_1_1_game.html", null ],
+      [ "Telegram::GameHighScore", "class_telegram_1_1_game_high_score.html", null ],
+      [ "Telegram::InlineKeyboardButton", "class_telegram_1_1_inline_keyboard_button.html", null ],
+      [ "Telegram::InlineQuery", "class_telegram_1_1_inline_query.html", null ],
+      [ "Telegram::InlineQueryResult", "class_telegram_1_1_inline_query_result.html", [
+        [ "Telegram::InlineQueryResultArticle", "class_telegram_1_1_inline_query_result_article.html", null ],
+        [ "Telegram::InlineQueryResultAudio", "class_telegram_1_1_inline_query_result_audio.html", null ],
+        [ "Telegram::InlineQueryResultCachedAudio", "class_telegram_1_1_inline_query_result_cached_audio.html", null ],
+        [ "Telegram::InlineQueryResultCachedDocument", "class_telegram_1_1_inline_query_result_cached_document.html", null ],
+        [ "Telegram::InlineQueryResultCachedGif", "class_telegram_1_1_inline_query_result_cached_gif.html", null ],
+        [ "Telegram::InlineQueryResultCachedMpeg4Gif", "class_telegram_1_1_inline_query_result_cached_mpeg4_gif.html", null ],
+        [ "Telegram::InlineQueryResultCachedPhoto", "class_telegram_1_1_inline_query_result_cached_photo.html", null ],
+        [ "Telegram::InlineQueryResultCachedSticker", "class_telegram_1_1_inline_query_result_cached_sticker.html", null ],
+        [ "Telegram::InlineQueryResultCachedVideo", "class_telegram_1_1_inline_query_result_cached_video.html", null ],
+        [ "Telegram::InlineQueryResultCachedVoice", "class_telegram_1_1_inline_query_result_cached_voice.html", null ],
+        [ "Telegram::InlineQueryResultContact", "class_telegram_1_1_inline_query_result_contact.html", null ],
+        [ "Telegram::InlineQueryResultDocument", "class_telegram_1_1_inline_query_result_document.html", null ],
+        [ "Telegram::InlineQueryResultGame", "class_telegram_1_1_inline_query_result_game.html", null ],
+        [ "Telegram::InlineQueryResultGif", "class_telegram_1_1_inline_query_result_gif.html", null ],
+        [ "Telegram::InlineQueryResultLocation", "class_telegram_1_1_inline_query_result_location.html", null ],
+        [ "Telegram::InlineQueryResultMpeg4Gif", "class_telegram_1_1_inline_query_result_mpeg4_gif.html", null ],
+        [ "Telegram::InlineQueryResultPhoto", "class_telegram_1_1_inline_query_result_photo.html", null ],
+        [ "Telegram::InlineQueryResultVenue", "class_telegram_1_1_inline_query_result_venue.html", null ],
+        [ "Telegram::InlineQueryResultVideo", "class_telegram_1_1_inline_query_result_video.html", null ],
+        [ "Telegram::InlineQueryResultVoice", "class_telegram_1_1_inline_query_result_voice.html", null ]
+      ] ],
+      [ "Telegram::InputMedia", "class_telegram_1_1_input_media.html", [
+        [ "Telegram::InputMediaPhoto", "class_telegram_1_1_input_media_photo.html", null ],
+        [ "Telegram::InputMediaVideo", "class_telegram_1_1_input_media_video.html", null ]
+      ] ],
+      [ "Telegram::InputMessageContent", "class_telegram_1_1_input_message_content.html", [
+        [ "Telegram::InputContactMessageContent", "class_telegram_1_1_input_contact_message_content.html", null ],
+        [ "Telegram::InputLocationMessageContent", "class_telegram_1_1_input_location_message_content.html", null ],
+        [ "Telegram::InputTextMessageContent", "class_telegram_1_1_input_text_message_content.html", null ],
+        [ "Telegram::InputVenueMessageContent", "class_telegram_1_1_input_venue_message_content.html", null ]
+      ] ],
+      [ "Telegram::Invoice", "class_telegram_1_1_invoice.html", null ],
+      [ "Telegram::KeyboardButton", "class_telegram_1_1_keyboard_button.html", null ],
+      [ "Telegram::LabeledPrice", "class_telegram_1_1_labeled_price.html", null ],
+      [ "Telegram::Location", "class_telegram_1_1_location.html", null ],
+      [ "Telegram::MaskPosition", "class_telegram_1_1_mask_position.html", null ],
+      [ "Telegram::Message", "class_telegram_1_1_message.html", null ],
+      [ "Telegram::MessageEntity", "class_telegram_1_1_message_entity.html", null ],
+      [ "Telegram::OrderInfo", "class_telegram_1_1_order_info.html", null ],
+      [ "Telegram::PhotoSize", "class_telegram_1_1_photo_size.html", null ],
+      [ "Telegram::PreCheckoutQuery", "class_telegram_1_1_pre_checkout_query.html", null ],
+      [ "Telegram::ReplyMarkup", "class_telegram_1_1_reply_markup.html", [
+        [ "Telegram::ForceReply", "class_telegram_1_1_force_reply.html", null ],
+        [ "Telegram::InlineKeyboardMarkup", "class_telegram_1_1_inline_keyboard_markup.html", null ],
+        [ "Telegram::ReplyKeyboardMarkup", "class_telegram_1_1_reply_keyboard_markup.html", null ],
+        [ "Telegram::ReplyKeyboardRemove", "class_telegram_1_1_reply_keyboard_remove.html", null ]
+      ] ],
+      [ "Telegram::ResponseParameters", "class_telegram_1_1_response_parameters.html", null ],
+      [ "Telegram::ShippingAddress", "class_telegram_1_1_shipping_address.html", null ],
+      [ "Telegram::ShippingOption", "class_telegram_1_1_shipping_option.html", null ],
+      [ "Telegram::ShippingQuery", "class_telegram_1_1_shipping_query.html", null ],
+      [ "Telegram::Sticker", "class_telegram_1_1_sticker.html", null ],
+      [ "Telegram::StickerSet", "class_telegram_1_1_sticker_set.html", null ],
+      [ "Telegram::SuccessfulPayment", "class_telegram_1_1_successful_payment.html", null ],
+      [ "Telegram::Update", "class_telegram_1_1_update.html", null ],
+      [ "Telegram::User", "class_telegram_1_1_user.html", null ],
+      [ "Telegram::UserProfilePhotos", "class_telegram_1_1_user_profile_photos.html", null ],
+      [ "Telegram::Venue", "class_telegram_1_1_venue.html", null ],
+      [ "Telegram::Video", "class_telegram_1_1_video.html", null ],
+      [ "Telegram::VideoNote", "class_telegram_1_1_video_note.html", null ],
+      [ "Telegram::Voice", "class_telegram_1_1_voice.html", null ]
+    ] ]
+];

@@ -1,0 +1,27 @@
+var class_telegram_1_1_callback_query =
+[
+    [ "CallbackQuery", "class_telegram_1_1_callback_query.html#ad705a4822a8c6cb84e9d1a24f2c5562d", null ],
+    [ "CallbackQuery", "class_telegram_1_1_callback_query.html#aa717d9054685e169eb29ba80cb4f0370", null ],
+    [ "CallbackQuery", "class_telegram_1_1_callback_query.html#aa6f87e9ddabeb7e78487f3ae5756fd15", null ],
+    [ "getChatInstance", "class_telegram_1_1_callback_query.html#af59814782d1955bc2e2c51989943ecfe", null ],
+    [ "getData", "class_telegram_1_1_callback_query.html#ad32d87414ea2a419872c447ebd13419a", null ],
+    [ "getFrom", "class_telegram_1_1_callback_query.html#a281d6a37e24719c8a95495efcd166fb2", null ],
+    [ "getGameShortName", "class_telegram_1_1_callback_query.html#a591dd698162ac63c952b8e158260dc6d", null ],
+    [ "getId", "class_telegram_1_1_callback_query.html#adfced4f01fb20921e09e49e04c58774d", null ],
+    [ "getInlineMessageId", "class_telegram_1_1_callback_query.html#a43dc42fa069d5f63f70b67b0c712074b", null ],
+    [ "getMessage", "class_telegram_1_1_callback_query.html#ade4aff63a5dd46112dadcf911b59a78c", null ],
+    [ "hasChatInstance", "class_telegram_1_1_callback_query.html#a203336c040d39ca3279f43b3f21c66a0", null ],
+    [ "hasData", "class_telegram_1_1_callback_query.html#af6e7bfbb02ca907e4e712b0f65c310eb", null ],
+    [ "hasFrom", "class_telegram_1_1_callback_query.html#a117bebbc8dbaa51470a1a307b1b6ec7b", null ],
+    [ "hasGameShortName", "class_telegram_1_1_callback_query.html#a36c3d1f2e77315c59ca2fd56dcf077ac", null ],
+    [ "hasId", "class_telegram_1_1_callback_query.html#a64b9c7474c5a189aa1ba6d18b3fb417e", null ],
+    [ "hasInlineMessageId", "class_telegram_1_1_callback_query.html#a681ddeda0b8a910e35e5ecf0d31d20fb", null ],
+    [ "hasMessage", "class_telegram_1_1_callback_query.html#a5837532e15839255d276e85631147917", null ],
+    [ "setChatInstance", "class_telegram_1_1_callback_query.html#a0aa609a803ed72e803b685324dca47d6", null ],
+    [ "setData", "class_telegram_1_1_callback_query.html#a27a4b20d5ebe14fbaf61903c4878c706", null ],
+    [ "setFrom", "class_telegram_1_1_callback_query.html#a01a5310e0a9828941165cd64f42c9eb4", null ],
+    [ "setGameShortName", "class_telegram_1_1_callback_query.html#a03b9373e9fa9d7e16a647bacb887019e", null ],
+    [ "setId", "class_telegram_1_1_callback_query.html#a37815d399f37d5e6905c3a73870c3d6c", null ],
+    [ "setInlineMessageId", "class_telegram_1_1_callback_query.html#aef8457afa992033bc76a7e1a04563072", null ],
+    [ "setMessage", "class_telegram_1_1_callback_query.html#ad1e2712a0efef520f3391ecb179a1cee", null ]
+];
