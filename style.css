@@ -1,5 +1,5 @@
 body {
-	margin: 0px;
+	margin: auto;
 }
 
 #header {
@@ -37,8 +37,8 @@ body {
 
 .menu_item {
 	float: left;
-	margin-left: 20;
 	margin-top: 4;
+	margin-left: 20;
 	background-color: #720D5D;
 	border-radius: 10px;
 }
