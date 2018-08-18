@@ -1,0 +1,49 @@
+body {
+	margin: 0px;
+}
+
+#header {
+
+}
+
+#title_area {
+	height: 100px;
+	background-color: #202124;
+}
+
+#title {
+	float: top;
+	font-size: 45px;
+	color: white;
+	margin-left: 20;
+}
+
+#description {
+	float: bottom;
+	margin-left: 40;
+	color: #49C1D2;
+}
+
+#menu_area {
+	background-color: #5D1049;
+	color: white;
+	height: 50px;
+}
+
+#menu_area a {
+	color: white;
+	text-decoration: none;
+}
+
+.menu_item {
+	float: left;
+	margin-left: 20;
+	margin-top: 4;
+	background-color: #720D5D;
+	border-radius: 10px;
+}
+
+.menu_text {
+	margin: 5px;
+	font-size: 20;
+}
