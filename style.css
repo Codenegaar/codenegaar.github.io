@@ -1,46 +1,66 @@
 body {
-	margin: auto;
+	margin: 0;
 }
 
-#header {
+/*
+ * Header area
+ * Header has two classes,
+ * title: page title
+ * brief: brief description of the page
+ */
 
-}
-
-#title_area {
+.header {
 	height: 100px;
 	background-color: #202124;
 }
 
-#title {
+.title {
 	float: top;
 	font-size: 45px;
 	color: white;
 	margin-left: 20;
 }
 
-#description {
-	float: bottom;
+.brief {
+	float: top;
 	margin-left: 40;
 	color: #49C1D2;
 }
 
-#menu_area {
+/*
+ * main area
+ * anything except header is here
+ */
+ .main {
+ height: 100%;
+ }
+
+/*
+ * menu area
+ * here we have some links and buttons acting as a menu
+ */
+.menu {
 	background-color: #5D1049;
 	color: white;
-	height: 50px;
+	font-size: 20;
+	
+	float: left;
+	width: 20%;
+	height: 100%;
+	
+	text-align: center;
 }
 
-#menu_area a {
+.menu a {
 	color: white;
 	text-decoration: none;
 }
 
 .menu_item {
-	float: left;
-	margin-top: 4;
-	margin-left: 20;
+	float: top;
+	margin: 10;
 	background-color: #720D5D;
-	border-radius: 10px;
+	border-radius: 7px;
 	transition: background-color 1s;
 }
 
@@ -48,7 +68,21 @@ body {
 	background-color: #DA1AB2;
 }
 
-.menu_text {
-	margin: 5px;
-	font-size: 20;
+/*
+ * Content area
+ */
+ .content {
+    float:left;
+    width:60%;
+    padding:0 20px;
+}
+
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .menu, .content {
+    width:100%;
+  }
+  .menu {
+    height: 100;
+  }
 }
