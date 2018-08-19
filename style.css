@@ -41,6 +41,11 @@ body {
 	margin-left: 20;
 	background-color: #720D5D;
 	border-radius: 10px;
+	transition: background-color 1s;
+}
+
+.menu_item:hover {
+	background-color: #DA1AB2;
 }
 
 .menu_text {
