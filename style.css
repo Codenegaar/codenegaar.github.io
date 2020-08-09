@@ -1,5 +1,6 @@
 body {
 	margin: 0;
+	width: 100%;
 }
 
 /*
@@ -15,14 +16,12 @@ body {
 }
 
 .title {
-	float: top;
 	font-size: 45px;
 	color: white;
 	margin-left: 20;
 }
 
 .brief {
-	float: top;
 	margin-left: 40;
 	color: #49C1D2;
 }
@@ -32,7 +31,7 @@ body {
  * anything except header is here
  */
  .main {
- height: 100%;
+	
  }
 
 /*
@@ -57,7 +56,6 @@ body {
 }
 
 .menu_item {
-	float: top;
 	margin: 10;
 	background-color: #720D5D;
 	border-radius: 7px;
